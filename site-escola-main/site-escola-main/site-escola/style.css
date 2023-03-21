@@ -1,0 +1,17 @@
+.cabeçalho{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+
+}
+
+.cabeçalho-imagem{
+    width: 30%;
+
+}
+
+.cabeçalho-imagem-item{
+  display: inline-block;
+
+}
