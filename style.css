@@ -25,8 +25,27 @@
     .escola-imagem{width: 20%;}
     .escola{
          display: flex;
-         background-image: -o-linear-gradient( pink, rgb(219, 48, 91);
+         background-image: -o-linear-gradient( pink, rgb)219, 48, 91);
+         justify-content: center;
+         align-items: center
+
   }
+  .estudante-div-conteudo{
+      width: 25%;
+  }
+  
+.escola-titulo{
+    padding: 24px 0;
+}
+ .estudante-imagem{
+     width: 15%;
+ }
+  
+ .estudante-icone{
+     width: 04%;
+ }
+
+  
 
 
 
